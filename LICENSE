@@ -1,0 +1,63 @@
+Transcendent Logic Non-Commercial License v1.0
+
+1. Definitions.
+
+"This License" means the Transcendent Logic Non-Commercial License v1.0.
+
+"Commercial Use" means any use for commercial advantage or monetary compensation, including providing products or services to others; use in revenue-generating activities; advertising-supported services; fundraising; cost-reduction or revenue-increasing purposes; or use in products or systems offered for sale or rent.
+
+"Permitted Purpose" means personal, academic, or nonprofit educational use only, provided it is not Commercial Use.
+
+"You" means any individual or entity exercising permissions granted by this License.
+
+"Software" means all code, models, parameters, documentation, and other materials in this repository, and any derivative works.
+
+"Licensor" means Uncertain Logic, UAB, legal entity code 307194678, a Lithuanian private limited liability company, operating under the brand name Transcendent Logic, and its successors and assigns.
+
+"Licensor Patent Rights" means all patent claims owned or controlled by Licensor that are necessarily infringed by making, having made, using, or importing the Software as distributed by Licensor, or derivative works created under Section 2.
+
+"Noncommercial Distribution" means distribution without charge other than reasonable reproduction and transfer costs, with no sale, license fee, donation requirement, or other consideration.
+
+"Third-Party Components" means materials included in the Software that are not owned or controlled by Licensor and are provided under their own licenses.
+
+2. Copyright License.
+
+Subject to this License and solely for the Permitted Purpose, Licensor grants you a non-exclusive, non-transferable, worldwide, royalty-free license to use, reproduce, modify, create derivative works of, and engage in Noncommercial Distribution of the Software, including in compiled, bitstream, or synthesized form.
+
+If you distribute the Software or derivative works, you must: (a) distribute them under this License, except that Third-Party Components remain under their own licenses; (b) include this License and preserve all copyright, license, trademark, patent, and third-party notices; (c) clearly mark your changes; and (d) not impose additional or different restrictions on the Software. Each recipient automatically receives a license from Licensor to exercise the rights granted by this License. No sublicensing.
+
+3. Patent License.
+
+Solely for the Permitted Purpose, Licensor grants you a non-exclusive, non-transferable, worldwide, royalty-free patent license under the Licensor Patent Rights to make, have made, use, and import the Software and derivative works created under Section 2. No license is granted to sell, offer to sell, or otherwise commercially exploit the Software or derivative works. All other Licensor Patent Rights are reserved. No implied licenses.
+
+4. Restrictions.
+
+All uses outside the Permitted Purpose are prohibited. Commercial Use requires a separate license from Licensor. The Software is licensed, not sold, and no sale or offer for sale is authorized under this License.
+
+5. Notices and Third-Party Components.
+
+You must retain and reproduce all notices found in the Software. This License gives general notice that the Software may be covered by patents or pending applications; specific patent or application numbers need not be listed, but if present, must be retained. Third-Party Components are governed by their own licenses, and nothing in this License alters those terms.
+
+6. Patent Retaliation / No-Challenge.
+
+If you (i) institute or authorize patent litigation alleging that the Software or a Permitted Purpose use infringes a patent, or (ii) challenge the validity, enforceability, scope, or ownership of any Licensor Patent Rights, then your rights under this License terminate immediately. This does not apply to defensive counterclaims in response to a patent claim first brought against you.
+
+7. Termination.
+
+This License terminates automatically upon breach. If the breach is curable, rights are reinstated automatically if you cure within 30 days of becoming aware of the breach. Upon termination, you must cease use and distribution and destroy or purge copies in your possession or control, except archival copies required by law. Any provisions that by their nature should survive termination survive.
+
+8. Trademarks.
+
+No rights in Licensor’s names, trademarks, service marks, logos, or brand names, including Uncertain Logic and Transcendent Logic, are granted.
+
+9. Disclaimer and Liability Limit.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, INCLUDING NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. LICENSOR WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, OR DATA, EVEN IF ADVISED OF THE POSSIBILITY.
+
+10. License Versions.
+
+Licensor may publish revised versions of this License. A revised version applies to the Software only if Licensor expressly states that the Software is licensed under that revised version. Unless the applicable notice expressly says "or any later version," you receive rights only under the version identified in that notice.
+
+11. General.
+
+If any provision is unenforceable, the remainder remains in effect. Failure to enforce is not a waiver. This License is the entire agreement regarding the Software. You must comply with applicable laws, including export control.
