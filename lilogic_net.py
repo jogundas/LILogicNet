@@ -1,9 +1,10 @@
 # /// script
 # dependencies = [
 #   "python-dotenv",
-#   "numpy",val
+#   "numpy",
 #   "torch",
 #   "torchvision",
+#   "tqdm"
 # ]
 # [tool.uv]
 # exclude-newer = "2025-02-20T00:00:00Z"
